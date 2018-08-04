@@ -1,0 +1,45 @@
+.alan {
+
+	background-color: lightblue; /*arkapaln rengi değişür*/
+	width: 400px;/*genişliği değişr*/
+	height: 400px;/*yükseklk değiir*/
+	font-size: 25px;y/*yazı büyüküğü değiştiri*/
+	color: orange;/*yazı rengi değişr*/
+	overflow: hidden;/*sığdırır*/
+
+}
+.yenialan{
+background-color: gold;
+height: 100px;
+
+
+
+}
+
+h1#başlık{
+	color: #06ca95;
+}
+a.link{
+	color: #ca3b3b;/*link rengini değiştrmek için*/
+
+}
+p#pargraf{
+	font-weight: bold;
+}
+
+ul#liste {
+ list-style: none; /*nokta olmadan*/
+hidden
+
+}
+li.madde{
+	float: left;
+	margin: 10px;
+}
+.tabloalanı{
+	background-color: silver;
+	color: red;
+	overflow: hidden; /*<tr> satır demek, <td> sütun */
+	width: 600px;/*genişliği değişr*/
+	height: 300px;/*yükseklk değiir*/
+}
